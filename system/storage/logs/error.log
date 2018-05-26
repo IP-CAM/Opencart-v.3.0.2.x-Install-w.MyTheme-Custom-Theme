@@ -1,0 +1,7 @@
+2018-05-12 18:01:35 - PHP Warning:  Cannot modify header information - headers already sent in E:\shoppingCart\system\framework.php on line 108
+2018-05-13 13:41:13 - PHP Warning:  rmdir(E:/shoppingCart/system/storage/cache/14): Directory not empty in E:\shoppingCart\admin\controller\common\developer.php on line 70
+2018-05-19 19:51:03 - PHP Warning:  mysqli::mysqli(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in E:\shoppingCart\system\library\db\mysqli.php on line 7
+2018-05-19 19:51:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\shoppingCart\system\library\db\mysqli.php on line 10
+2018-05-19 19:51:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\shoppingCart\system\library\db\mysqli.php on line 10
+2018-05-19 20:47:06 - PHP Warning:  rmdir(E:/shoppingCart/system/storage/cache/14): Directory not empty in E:\shoppingCart\admin\controller\common\developer.php on line 70
